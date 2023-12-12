@@ -5,7 +5,6 @@ Cardiovascular diseases are the leading cause of death globally. It is therefore
 
 ## Dataset description:
 
-
 ### Variable	Description
 
 ###### Age:	Age in years
